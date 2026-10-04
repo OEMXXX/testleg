@@ -1,0 +1,44 @@
+WEBVTT
+
+STYLE
+::cue(.branco) {
+    color: #ffffff;
+    text-shadow: 0 0 4px #ffffff, 0 0 10px #ffffff, 0 0 20px #cccccc;
+}
+::cue(.vermelho) {
+    color: #ff5555;
+    text-shadow: 0 0 4px #ff0000, 0 0 10px #ff0000, 0 0 20px #990000;
+}
+
+00:00:00.000 --> 00:00:00.080
+<c.branco>H</c>
+
+00:00:00.080 --> 00:00:00.160
+<c.branco>Hu</c>
+
+00:00:00.160 --> 00:00:00.240
+<c.branco>Hub</c>
+
+00:00:00.240 --> 00:00:00.320
+<c.branco>HubF</c>
+
+00:00:00.320 --> 00:00:00.400
+<c.branco>HubFl</c>
+
+00:00:00.400 --> 00:00:00.480
+<c.branco>HubFli</c>
+
+00:00:00.480 --> 00:00:00.560
+<c.branco>HubFlix</c>
+
+00:00:00.560 --> 00:00:00.640
+<c.branco>HubFlix </c>
+
+00:00:00.640 --> 00:00:00.720
+<c.branco>HubFlix </c><c.vermelho>T</c>
+
+00:00:00.720 --> 00:00:00.800
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:00:00.800 --> 00:00:05.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
