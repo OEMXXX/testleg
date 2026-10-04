@@ -1,0 +1,89 @@
+WEBVTT
+
+STYLE
+::cue(.branco) {
+    color: #ffffff;
+    text-shadow: 0 0 4px #ffffff, 0 0 10px #ffffff, 0 0 20px #cccccc;
+}
+::cue(.vermelho) {
+    color: #ff5555;
+    text-shadow: 0 0 4px #ff0000, 0 0 10px #ff0000, 0 0 20px #990000;
+}
+
+00:00:00.000 --> 00:00:00.400
+<c.branco>H</c>
+
+00:00:00.400 --> 00:00:00.800
+<c.branco>Hu</c>
+
+00:00:00.800 --> 00:00:01.200
+<c.branco>Hub</c>
+
+00:00:01.200 --> 00:00:01.600
+<c.branco>HubF</c>
+
+00:00:01.600 --> 00:00:02.000
+<c.branco>HubFl</c>
+
+00:00:02.000 --> 00:00:02.400
+<c.branco>HubFli</c>
+
+00:00:02.400 --> 00:00:02.800
+<c.branco>HubFlix</c>
+
+00:00:02.800 --> 00:00:03.200
+<c.branco>HubFlix </c>
+
+00:00:03.200 --> 00:00:03.600
+<c.branco>HubFlix </c><c.vermelho>T</c>
+
+00:00:03.600 --> 00:00:04.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:00:04.000 --> 00:00:05.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:02:08.369 --> 00:02:10.205
+<i>Nel 21esimo secolo,</i>
+
+00:02:10.288 --> 00:02:14.084
+<i>in seguito alla diffusione
+di un virus letale,</i>
+
+00:02:14.167 --> 00:02:18.088
+<i>sulla Terra sono rimasti
+meno di due milioni di abitanti.</i>
+
+00:02:20.298 --> 00:02:27.180
+<i>Gli esseri umani sopravvissuti
+sono tutti ciechi.</i>
+
+00:02:29.391 --> 00:02:34.396
+<i>Ora, secoli dopo,
+l'idea che si possa vedere è solo un mito.</i>
+
+00:02:34.479 --> 00:02:39.943
+<i>Anche solo parlarne
+è considerata un'eresia.</i>
+
+00:02:47.242 --> 00:02:48.869
+VILLAGGIO DEGLI ALKENNY
+AI CONFINI DEL REGNO DI PAYAN
+
+00:08:20.784 --> 00:08:23.578
+Io, Baba Voss,
+
+00:08:24.329 --> 00:08:27.207
+giuro di difendere
+il villaggio degli Alkenny!
+
+00:08:27.290 --> 00:08:28.500
+Fiamma gloriosa!
+
+00:08:28.542 --> 00:08:31.920
+<i>Tornate dalla Regina Kane
+Nei ventri dei vostri cani</i>
+
+00:40:35.218 --> 00:40:42.225
+DIGA DI KINZUA
+PALAZZO DELLA REGINA KANE
