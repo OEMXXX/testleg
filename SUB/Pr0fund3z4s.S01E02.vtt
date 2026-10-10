@@ -1,0 +1,74 @@
+WEBVTT
+
+STYLE
+::cue(.branco) {
+    color: #ffffff;
+    text-shadow: 0 0 4px #ffffff, 0 0 10px #ffffff, 0 0 20px #cccccc;
+}
+::cue(.vermelho) {
+    color: #ff5555;
+    text-shadow: 0 0 4px #ff0000, 0 0 10px #ff0000, 0 0 20px #990000;
+}
+
+00:00:00.000 --> 00:00:00.400
+<c.branco>H</c>
+
+00:00:00.400 --> 00:00:00.800
+<c.branco>Hu</c>
+
+00:00:00.800 --> 00:00:01.200
+<c.branco>Hub</c>
+
+00:00:01.200 --> 00:00:01.600
+<c.branco>HubF</c>
+
+00:00:01.600 --> 00:00:02.000
+<c.branco>HubFl</c>
+
+00:00:02.000 --> 00:00:02.400
+<c.branco>HubFli</c>
+
+00:00:02.400 --> 00:00:02.800
+<c.branco>HubFlix</c>
+
+00:00:02.800 --> 00:00:03.200
+<c.branco>HubFlix </c>
+
+00:00:03.200 --> 00:00:03.600
+<c.branco>HubFlix </c><c.vermelho>T</c>
+
+00:00:03.600 --> 00:00:04.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:00:04.000 --> 00:00:05.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:02:18.791 --> 00:02:22.083
+GRANDES ESPERANÇAS
+
+00:04:49.250 --> 00:04:54.583
+PROFUNDEZAS
+
+00:07:15.583 --> 00:07:19.250
+FUNDAÇÃO J.M. CROCKER APOIANDO
+AS CIÊNCIAS OCEÂNICAS PARA O FUTURO
+
+00:10:12.875 --> 00:10:19.875
+VOTE
+SIM
+
+00:19:53.875 --> 00:19:58.958
+BUSCAS DOS PESCADORES
+PORTUGUESES DESAPARECIDOS
+
+00:24:55.208 --> 00:25:01.083
+CÂMERAS DA VIDA SELVAGEM
+GRAVANDO
+
+00:26:21.375 --> 00:26:24.083
+NÚMERO DESCONHECIDO
+SABEMOS ONDE VOCÊ ESTÁ, IDIOTA!
+
+00:26:31.541 --> 00:26:34.125
+VOCÊ VEM PARA
+A FESTA AO AR LIVRE? BEIJO

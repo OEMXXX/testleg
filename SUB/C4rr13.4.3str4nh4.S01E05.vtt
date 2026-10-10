@@ -1,0 +1,101 @@
+WEBVTT
+
+STYLE
+::cue(.branco) {
+    color: #ffffff;
+    text-shadow: 0 0 4px #ffffff, 0 0 10px #ffffff, 0 0 20px #cccccc;
+}
+::cue(.vermelho) {
+    color: #ff5555;
+    text-shadow: 0 0 4px #ff0000, 0 0 10px #ff0000, 0 0 20px #990000;
+}
+
+00:00:00.000 --> 00:00:00.400
+<c.branco>H</c>
+
+00:00:00.400 --> 00:00:00.800
+<c.branco>Hu</c>
+
+00:00:00.800 --> 00:00:01.200
+<c.branco>Hub</c>
+
+00:00:01.200 --> 00:00:01.600
+<c.branco>HubF</c>
+
+00:00:01.600 --> 00:00:02.000
+<c.branco>HubFl</c>
+
+00:00:02.000 --> 00:00:02.400
+<c.branco>HubFli</c>
+
+00:00:02.400 --> 00:00:02.800
+<c.branco>HubFlix</c>
+
+00:00:02.800 --> 00:00:03.200
+<c.branco>HubFlix </c>
+
+00:00:03.200 --> 00:00:03.600
+<c.branco>HubFlix </c><c.vermelho>T</c>
+
+00:00:03.600 --> 00:00:04.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:00:04.000 --> 00:00:05.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:00:06.750 --> 00:00:09.750
+ANTERIORMENTE
+
+00:00:10.583 --> 00:00:11.416
+SAPATÃO DE BIKE
+
+00:02:46.583 --> 00:02:50.458
+CARRIE, A ESTRANHA
+
+00:03:15.583 --> 00:03:20.041
+DIRETOR GRAYLE
+
+00:20:35.291 --> 00:20:36.500
+CARRIE PELUDA
+
+00:20:52.291 --> 00:20:56.083
+CADELINHA DO PROFESSOR
+
+00:25:03.250 --> 00:25:06.541
+REAL MAGGIE VERMELHA
+
+00:25:07.958 --> 00:25:10.125
+BEM-VINDA AO INSTAGRAM, MAGGIE VERMELHA
+
+00:25:10.208 --> 00:25:11.875
+PERSONALIZE
+A SUA EXPERIÊNCIA
+
+00:25:15.166 --> 00:25:18.000
+MARGARET WHITE
+MÃE EM DEFESA DOS DIREITOS DOS PAIS.
+
+00:26:18.833 --> 00:26:20.208
+Sue - chego em 7
+bons sonhos
+
+00:26:20.291 --> 00:26:21.291
+tô chegando
+aqui fora
+
+00:26:21.375 --> 00:26:23.708
+amor, tá aí?
+alô?
+
+00:31:50.375 --> 00:31:51.250
+DELETAR
+
+00:32:29.583 --> 00:32:32.875
+FUNERÁRIA YARBOROUGH
+
+00:42:26.583 --> 00:42:28.625
+CARRIE DOIDA
+
+00:43:53.458 --> 00:43:56.375
+BASEADO NO ROMANCE
+DE STEPHEN KING

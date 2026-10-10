@@ -1,0 +1,81 @@
+WEBVTT
+
+STYLE
+::cue(.branco) {
+    color: #ffffff;
+    text-shadow: 0 0 4px #ffffff, 0 0 10px #ffffff, 0 0 20px #cccccc;
+}
+::cue(.vermelho) {
+    color: #ff5555;
+    text-shadow: 0 0 4px #ff0000, 0 0 10px #ff0000, 0 0 20px #990000;
+}
+
+00:00:00.000 --> 00:00:00.400
+<c.branco>H</c>
+
+00:00:00.400 --> 00:00:00.800
+<c.branco>Hu</c>
+
+00:00:00.800 --> 00:00:01.200
+<c.branco>Hub</c>
+
+00:00:01.200 --> 00:00:01.600
+<c.branco>HubF</c>
+
+00:00:01.600 --> 00:00:02.000
+<c.branco>HubFl</c>
+
+00:00:02.000 --> 00:00:02.400
+<c.branco>HubFli</c>
+
+00:00:02.400 --> 00:00:02.800
+<c.branco>HubFlix</c>
+
+00:00:02.800 --> 00:00:03.200
+<c.branco>HubFlix </c>
+
+00:00:03.200 --> 00:00:03.600
+<c.branco>HubFlix </c><c.vermelho>T</c>
+
+00:00:03.600 --> 00:00:04.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:00:04.000 --> 00:00:05.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:03:50.500 --> 00:03:54.083
+Carrie, a Estranha
+
+00:11:50.916 --> 00:11:54.208
+BAILE DE FORMATURA
+
+00:21:31.291 --> 00:21:33.916
+RETROSPECTIVA EM 35MM
+
+00:23:51.416 --> 00:23:55.791
+Lavanda é verde
+
+00:23:55.875 --> 00:23:58.583
+Lavanda é azul
+
+00:24:01.083 --> 00:24:05.083
+Se você me amar
+
+00:24:05.166 --> 00:24:08.125
+Eu vou amar você
+
+00:24:09.541 --> 00:24:13.666
+Cantam os passarinhos
+
+00:24:13.750 --> 00:24:16.125
+Brincam os cordeirinhos
+
+00:24:16.208 --> 00:24:20.875
+Nós estaremos seguras
+
+00:24:20.958 --> 00:24:23.875
+Longe do perigo
+
+00:44:39.041 --> 00:44:42.000
+BASEADO NO ROMANCE
+DE STEPHEN KING

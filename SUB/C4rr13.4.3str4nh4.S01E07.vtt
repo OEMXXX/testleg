@@ -1,0 +1,114 @@
+WEBVTT
+
+STYLE
+::cue(.branco) {
+    color: #ffffff;
+    text-shadow: 0 0 4px #ffffff, 0 0 10px #ffffff, 0 0 20px #cccccc;
+}
+::cue(.vermelho) {
+    color: #ff5555;
+    text-shadow: 0 0 4px #ff0000, 0 0 10px #ff0000, 0 0 20px #990000;
+}
+
+00:00:00.000 --> 00:00:00.400
+<c.branco>H</c>
+
+00:00:00.400 --> 00:00:00.800
+<c.branco>Hu</c>
+
+00:00:00.800 --> 00:00:01.200
+<c.branco>Hub</c>
+
+00:00:01.200 --> 00:00:01.600
+<c.branco>HubF</c>
+
+00:00:01.600 --> 00:00:02.000
+<c.branco>HubFl</c>
+
+00:00:02.000 --> 00:00:02.400
+<c.branco>HubFli</c>
+
+00:00:02.400 --> 00:00:02.800
+<c.branco>HubFlix</c>
+
+00:00:02.800 --> 00:00:03.200
+<c.branco>HubFlix </c>
+
+00:00:03.200 --> 00:00:03.600
+<c.branco>HubFlix </c><c.vermelho>T</c>
+
+00:00:03.600 --> 00:00:04.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:00:04.000 --> 00:00:05.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:00:06.750 --> 00:00:09.750
+ANTERIORMENTE
+
+00:03:13.958 --> 00:03:19.250
+CARRIE, A ESTRANHA
+
+00:03:19.333 --> 00:03:24.750
+REPERCUSSÕES DE PROTESTO VIOLENTO
+EM COLÉGIO
+
+00:03:52.916 --> 00:03:55.458
+CARRIE VERMELHA
+
+00:04:06.000 --> 00:04:11.250
+REPERCUSSÕES EM PROTESTO VIOLENTO
+EM COLÉGIO
+
+00:04:15.583 --> 00:04:16.875
+SABONETE DE QUARTEL
+
+00:04:16.958 --> 00:04:18.250
+BÊBADA
+
+00:04:22.750 --> 00:04:25.250
+PAIS SABEM O QUE É MELHOR
+
+00:10:14.083 --> 00:10:16.000
+"LAIBE"
+
+00:10:24.208 --> 00:10:25.916
+BAILE
+
+00:34:34.583 --> 00:34:36.458
+REI E RAINHA DO BAILE DE 2026
+VOTE JÁ!
+
+00:34:36.541 --> 00:34:37.625
+TINA BLAKE
+VOTAR
+
+00:34:37.708 --> 00:34:38.916
+OBRIGADO POR VOTAR!
+
+00:34:43.791 --> 00:34:45.291
+VOCÊ JÁ VOTOU.
+
+00:34:50.750 --> 00:34:52.416
+CARRIE WHITE
+VOTAR
+
+00:34:52.500 --> 00:34:53.666
+OBRIGADO POR VOTAR!
+
+00:34:53.750 --> 00:34:54.791
+GERANDO IP…
+SUCESSO
+
+00:35:52.500 --> 00:35:57.000
+FAZENDA DE PORCOS
+
+00:41:09.333 --> 00:41:10.666
+CARRIE PARA RAINHA
+
+00:46:58.958 --> 00:47:00.833
+Não sei o que você vai fazer, mas PARA!
+
+00:48:45.916 --> 00:48:48.875
+BASEADO NO ROMANCE
+DE STEPHEN KING

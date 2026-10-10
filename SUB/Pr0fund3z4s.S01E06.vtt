@@ -1,0 +1,76 @@
+WEBVTT
+
+STYLE
+::cue(.branco) {
+    color: #ffffff;
+    text-shadow: 0 0 4px #ffffff, 0 0 10px #ffffff, 0 0 20px #cccccc;
+}
+::cue(.vermelho) {
+    color: #ff5555;
+    text-shadow: 0 0 4px #ff0000, 0 0 10px #ff0000, 0 0 20px #990000;
+}
+
+00:00:00.000 --> 00:00:00.400
+<c.branco>H</c>
+
+00:00:00.400 --> 00:00:00.800
+<c.branco>Hu</c>
+
+00:00:00.800 --> 00:00:01.200
+<c.branco>Hub</c>
+
+00:00:01.200 --> 00:00:01.600
+<c.branco>HubF</c>
+
+00:00:01.600 --> 00:00:02.000
+<c.branco>HubFl</c>
+
+00:00:02.000 --> 00:00:02.400
+<c.branco>HubFli</c>
+
+00:00:02.400 --> 00:00:02.800
+<c.branco>HubFlix</c>
+
+00:00:02.800 --> 00:00:03.200
+<c.branco>HubFlix </c>
+
+00:00:03.200 --> 00:00:03.600
+<c.branco>HubFlix </c><c.vermelho>T</c>
+
+00:00:03.600 --> 00:00:04.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:00:04.000 --> 00:00:05.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:02:28.375 --> 00:02:33.708
+PROFUNDEZAS
+
+00:11:39.916 --> 00:11:46.916
+GRUPO CROCKER
+
+00:15:50.791 --> 00:15:52.791
+PROIBIDO FUMAR
+
+00:17:35.041 --> 00:17:38.375
+AUTORIZAÇÃO PARA MINERAÇÃO
+GRUPO CROCKER
+
+00:21:01.708 --> 00:21:03.458
+GRANDES ESPERANÇAS
+
+00:22:09.791 --> 00:22:11.666
+MELHOR CAPITÃ DO PORTO
+DO MUNDO
+
+00:31:47.750 --> 00:31:51.041
+LULA GIGANTE
+DESTILARIA E CERVEJARIA
+
+00:31:54.250 --> 00:31:57.666
+O ANO DA VOLTA PARA CASA 2027
+3 DE JULHO - 10 DE JULHO
+
+00:33:21.500 --> 00:33:22.708
+NOTRE DAME TOUR
+BALEIAS E PAPAGAIOS-DO-MAR

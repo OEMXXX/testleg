@@ -1,0 +1,69 @@
+WEBVTT
+
+STYLE
+::cue(.branco) {
+    color: #ffffff;
+    text-shadow: 0 0 4px #ffffff, 0 0 10px #ffffff, 0 0 20px #cccccc;
+}
+::cue(.vermelho) {
+    color: #ff5555;
+    text-shadow: 0 0 4px #ff0000, 0 0 10px #ff0000, 0 0 20px #990000;
+}
+
+00:00:00.000 --> 00:00:00.400
+<c.branco>H</c>
+
+00:00:00.400 --> 00:00:00.800
+<c.branco>Hu</c>
+
+00:00:00.800 --> 00:00:01.200
+<c.branco>Hub</c>
+
+00:00:01.200 --> 00:00:01.600
+<c.branco>HubF</c>
+
+00:00:01.600 --> 00:00:02.000
+<c.branco>HubFl</c>
+
+00:00:02.000 --> 00:00:02.400
+<c.branco>HubFli</c>
+
+00:00:02.400 --> 00:00:02.800
+<c.branco>HubFlix</c>
+
+00:00:02.800 --> 00:00:03.200
+<c.branco>HubFlix </c>
+
+00:00:03.200 --> 00:00:03.600
+<c.branco>HubFlix </c><c.vermelho>T</c>
+
+00:00:03.600 --> 00:00:04.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:00:04.000 --> 00:00:05.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:03:19.416 --> 00:03:22.833
+COMUNICADO PÚBLICO
+COMUNIDADE EVACUADA
+
+00:04:57.833 --> 00:05:00.750
+O ANO DA VOLTA PARA CASA 2026
+3 A 10 DE JULHO
+
+00:27:18.500 --> 00:27:21.958
+AUTORIZAÇÃO PARA MINERAÇÃO
+GRUPO CROCKER
+
+00:33:07.833 --> 00:33:14.625
+GRUPO CROCKER
+
+00:33:38.958 --> 00:33:41.416
+AVISO: NÃO É PERMITIDO BEBIDA
+NA SALA POR ORDEM DAS AUTOR
+
+00:34:28.083 --> 00:34:30.083
+POR FAVOR, LIMPE-SE
+
+00:38:10.083 --> 00:38:14.083
+PROFUNDEZAS
