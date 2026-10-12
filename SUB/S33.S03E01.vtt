@@ -1,0 +1,86 @@
+WEBVTT
+
+STYLE
+::cue(.branco) {
+    color: #ffffff;
+    text-shadow: 0 0 4px #ffffff, 0 0 10px #ffffff, 0 0 20px #cccccc;
+}
+::cue(.vermelho) {
+    color: #ff5555;
+    text-shadow: 0 0 4px #ff0000, 0 0 10px #ff0000, 0 0 20px #990000;
+}
+
+00:00:00.000 --> 00:00:00.400
+<c.branco>H</c>
+
+00:00:00.400 --> 00:00:00.800
+<c.branco>Hu</c>
+
+00:00:00.800 --> 00:00:01.200
+<c.branco>Hub</c>
+
+00:00:01.200 --> 00:00:01.600
+<c.branco>HubF</c>
+
+00:00:01.600 --> 00:00:02.000
+<c.branco>HubFl</c>
+
+00:00:02.000 --> 00:00:02.400
+<c.branco>HubFli</c>
+
+00:00:02.400 --> 00:00:02.800
+<c.branco>HubFlix</c>
+
+00:00:02.800 --> 00:00:03.200
+<c.branco>HubFlix </c>
+
+00:00:03.200 --> 00:00:03.600
+<c.branco>HubFlix </c><c.vermelho>T</c>
+
+00:00:03.600 --> 00:00:04.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:00:04.000 --> 00:00:05.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+1
+00:00:10.260 --> 00:00:12.262
+- {\an8}FRONTEIRA TRIVANTIANA/
+- GANITE
+
+2
+00:00:12.346 --> 00:00:16.015
+{\an8}256 DIAS APÓS
+A BATALHA DA FALHA GREENHILL
+
+3
+00:13:28.600 --> 00:13:32.271
+<i>Calma, não chore, bebezinho</i>
+
+4
+00:13:32.980 --> 00:13:36.733
+<i>Mamãe vai te dar um passarinho</i>
+
+5
+00:13:37.276 --> 00:13:41.363
+<i>E se o passarinho não cantar</i>
+
+6
+00:13:41.864 --> 00:13:45.576
+<i>Mamãe vai te dar um sino pra tocar</i>
+
+7
+00:13:46.368 --> 00:13:50.247
+<i>E se o sino quebrar</i>
+
+8
+00:13:50.747 --> 00:13:54.251
+<i>Mamãe vai te dar um cabrito</i>
+
+9
+00:13:54.751 --> 00:13:58.422
+<i>E se o cabrito não puxar</i>
+
+10
+00:13:58.922 --> 00:14:02.634
+<i>Mamãe vai te dar uma carroça e um boi</i>

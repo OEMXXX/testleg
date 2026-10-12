@@ -1,0 +1,131 @@
+WEBVTT
+
+STYLE
+::cue(.branco) {
+    color: #ffffff;
+    text-shadow: 0 0 4px #ffffff, 0 0 10px #ffffff, 0 0 20px #cccccc;
+}
+::cue(.vermelho) {
+    color: #ff5555;
+    text-shadow: 0 0 4px #ff0000, 0 0 10px #ff0000, 0 0 20px #990000;
+}
+
+00:00:00.000 --> 00:00:00.400
+<c.branco>H</c>
+
+00:00:00.400 --> 00:00:00.800
+<c.branco>Hu</c>
+
+00:00:00.800 --> 00:00:01.200
+<c.branco>Hub</c>
+
+00:00:01.200 --> 00:00:01.600
+<c.branco>HubF</c>
+
+00:00:01.600 --> 00:00:02.000
+<c.branco>HubFl</c>
+
+00:00:02.000 --> 00:00:02.400
+<c.branco>HubFli</c>
+
+00:00:02.400 --> 00:00:02.800
+<c.branco>HubFlix</c>
+
+00:00:02.800 --> 00:00:03.200
+<c.branco>HubFlix </c>
+
+00:00:03.200 --> 00:00:03.600
+<c.branco>HubFlix </c><c.vermelho>T</c>
+
+00:00:03.600 --> 00:00:04.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:00:04.000 --> 00:00:05.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:07:28.650 --> 00:07:33.322
+<i>♪ Lascia scorrere il fiume ♪</i>
+
+00:07:34.239 --> 00:07:37.868
+<i>♪ Lascia che tutti i sognatori ♪</i>
+
+00:07:37.951 --> 00:07:40.954
+<i>♪ Sveglino la Nazione ♪</i>
+
+00:07:41.913 --> 00:07:43.749
+<i>♪ Vieni ♪</i>
+
+00:07:43.832 --> 00:07:49.755
+<i>♪ Nuova Gerusalemme ♪</i>
+
+00:07:50.922 --> 00:07:56.094
+<i>♪ Si ergono città d'argento ♪</i>
+
+00:07:56.678 --> 00:08:00.015
+<i>♪ Le luci del mattino ♪</i>
+
+00:08:00.098 --> 00:08:03.769
+<i>♪ Le strade che le guidano ♪</i>
+
+00:08:04.478 --> 00:08:09.483
+<i>♪ E le sirene che le invocano ♪</i>
+
+00:08:10.233 --> 00:08:13.236
+<i>♪ Con una canzone ♪</i>
+
+00:08:14.946 --> 00:08:18.033
+<i>♪ Sta chiedendo ♪</i>
+
+00:08:18.116 --> 00:08:22.162
+<i>♪ L'Assunzione ♪</i>
+
+00:08:22.245 --> 00:08:28.085
+<i>♪ Tremando, agitandosi ♪</i>
+
+00:08:29.002 --> 00:08:31.088
+<i>♪ Oh ♪</i>
+
+00:08:31.171 --> 00:08:35.717
+<i>♪ Il mio cuore sta soffrendo ♪</i>
+
+00:08:35.801 --> 00:08:37.594
+<i>♪ Stiamo arrivando al limite ♪</i>
+
+00:08:37.678 --> 00:08:39.513
+<i>♪ Correndo sull'acqua ♪</i>
+
+00:08:39.596 --> 00:08:40.931
+<i>♪ Attraversando la nebbia ♪</i>
+
+00:08:41.014 --> 00:08:43.016
+<i>♪ I figli e le figlie ♪</i>
+
+00:08:43.100 --> 00:08:47.521
+<i>♪ Lascia scorrere il fiume ♪</i>
+
+00:08:48.897 --> 00:08:52.943
+<i>♪ Lascia che tutti i sognatori ♪</i>
+
+00:08:53.026 --> 00:08:56.530
+<i>♪ Sveglino la Nazione ♪</i>
+
+00:08:57.322 --> 00:08:58.448
+<i>♪ Vieni ♪</i>
+
+00:08:59.741 --> 00:09:05.998
+<i>♪ Nuova Gerusalemme ♪</i>
+
+00:21:19.314 --> 00:21:23.944
+<i>♪ Le stelle risplendono luminose sopra di te ♪</i>
+
+00:21:26.488 --> 00:21:30.158
+<i>♪ La brezza notturna sembra sussurrare ♪</i>
+
+00:21:30.242 --> 00:21:32.452
+<i>♪ Ti amo ♪</i>
+
+00:21:34.121 --> 00:21:39.209
+<i>♪ Gli uccellini cantano sul platano ♪</i>
+
+00:21:40.961 --> 00:21:45.632
+<i>♪ Sogna un piccolo sogno di me ♪</i>

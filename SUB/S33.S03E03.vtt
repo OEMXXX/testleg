@@ -1,0 +1,69 @@
+WEBVTT
+
+STYLE
+::cue(.branco) {
+    color: #ffffff;
+    text-shadow: 0 0 4px #ffffff, 0 0 10px #ffffff, 0 0 20px #cccccc;
+}
+::cue(.vermelho) {
+    color: #ff5555;
+    text-shadow: 0 0 4px #ff0000, 0 0 10px #ff0000, 0 0 20px #990000;
+}
+
+00:00:00.000 --> 00:00:00.400
+<c.branco>H</c>
+
+00:00:00.400 --> 00:00:00.800
+<c.branco>Hu</c>
+
+00:00:00.800 --> 00:00:01.200
+<c.branco>Hub</c>
+
+00:00:01.200 --> 00:00:01.600
+<c.branco>HubF</c>
+
+00:00:01.600 --> 00:00:02.000
+<c.branco>HubFl</c>
+
+00:00:02.000 --> 00:00:02.400
+<c.branco>HubFli</c>
+
+00:00:02.400 --> 00:00:02.800
+<c.branco>HubFlix</c>
+
+00:00:02.800 --> 00:00:03.200
+<c.branco>HubFlix </c>
+
+00:00:03.200 --> 00:00:03.600
+<c.branco>HubFlix </c><c.vermelho>T</c>
+
+00:00:03.600 --> 00:00:04.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:00:04.000 --> 00:00:05.000
+<c.branco>HubFlix </c><c.vermelho>Tv</c>
+
+00:46:04.202 --> 00:46:07.330
+<i>Questa è la tua terra</i>
+
+00:46:08.582 --> 00:46:11.418
+<i>Questa è la mia terra</i>
+
+00:46:12.669 --> 00:46:15.839
+<i>Dalle piccole valli</i>
+
+00:46:16.715 --> 00:46:19.593
+<i>Agli altopiani di montagna</i>
+
+00:46:21.553 --> 00:46:23.388
+<i>Dalle foreste nascoste</i>
+
+00:46:25.265 --> 00:46:27.434
+<i>Alle acque salate</i>
+
+00:46:29.853 --> 00:46:33.523
+<i>Questa terra è stata creata
+per te e per me</i>
+
+00:46:36.193 --> 00:46:39.029
+<i>Questa terra è stata creata...</i>
